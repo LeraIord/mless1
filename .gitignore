@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Downloaded SAT-6 data
+data/
+
 # IPython
 profile_default/
 ipython_config.py
